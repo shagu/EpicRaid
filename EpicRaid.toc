@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: EpicRaid [DO NOT USE]
+## Author: Shagu
+## Notes: Scans the raid for buffs and flasks
+## Version: 1.0
+## OptionalDeps: pfUI
+EpicRaid.lua
