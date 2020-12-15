@@ -14,14 +14,14 @@ end
 local epic = CreateFrame("Frame", nil, UIParent)
 epic:SetWidth(200)
 epic:SetHeight(200)
-epic:SetPoint("RIGHT", -50, 0)
+epic:SetPoint("RIGHT", -75, 0)
 epic:SetMovable(true)
 epic:EnableMouse(true)
 epic:SetScript("OnMouseDown", MoveMouseDown)
 epic:SetScript("OnMouseUp", MoveMouseUp)
 epic:SetScript("OnShow", function()
   epic:ClearAllPoints()
-  epic:SetPoint("CENTER", 0, 0)
+  epic:SetPoint("RIGHT", -75, 0)
 end)
 
 SLASH_EPIC1, SLASH_EPIC2 = "/epic", "/epicraid"
