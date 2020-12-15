@@ -40,6 +40,7 @@ local db = {
   },
   ["elixir"] = {
     "Mage Armor",
+    "Flask of Pure Death",
     "Molten Armor",
   },
 }
