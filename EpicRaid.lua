@@ -12,6 +12,7 @@ local CreateBackdrop = pfUI and pfUI.api and pfUI.api.CreateBackdrop or function
 end
 
 local epic = CreateFrame("Frame", nil, UIParent)
+epic:Hide()
 epic:SetWidth(200)
 epic:SetHeight(200)
 epic:SetPoint("RIGHT", -75, 0)
