@@ -36,12 +36,79 @@ end
 
 local db = {
   ["food"] = {
-    "Arcane Intellect",
+    --to add another Buffood: "Example Buffood",
+    --Protection Warrior
+    --Fury Warrior
+    --Arms Warrior
+    --Enhancement Shaman
+    --Elemental Shaman
+    --Restoration Shaman
+    --Retribution Paladin
+    --Protection Paladin
+    --Holy Paladin
+    --Rogue
+    --Feral Druid
+    --Feral Tank Druid
+    --Balance Druid
+    --Restoration Druid
+    --Frost Mage
+    --Fire Mage
+    --Arcane Mage
+    --Shadow Priest
+    --Holy Priest
+    --Beast Master Hunter
+    --Destruction Warlock
+    --Affliction Warlock
   },
   ["elixir"] = {
-    "Mage Armor",
-    "Flask of Pure Death",
-    "Molten Armor",
+    --to add another Elixir: "Example Elixir",
+    --Protection Warrior
+    --Fury Warrior
+    --Arms Warrior
+    --Enhancement Shaman
+    --Elemental Shaman
+    --Restoration Shaman
+    --Retribution Paladin
+    --Protection Paladin
+    --Holy Paladin
+    --Rogue
+    --Feral Druid
+    --Feral Tank Druid
+    --Balance Druid
+    --Restoration Druid
+    --Frost Mage
+    --Fire Mage
+    --Arcane Mage
+    --Shadow Priest
+    --Holy Priest
+    --Beast Master Hunter
+    --Destruction Warlock
+    --Affliction Warlock
+  },
+  ["weapon"] = {
+    --to add another Weaponbuff: "Example Weaponbuff",
+    --Protection Warrior
+    --Fury Warrior
+    --Arms Warrior
+    --Enhancement Shaman
+    --Elemental Shaman
+    --Restoration Shaman
+    --Retribution Paladin
+    --Protection Paladin
+    --Holy Paladin
+    --Rogue
+    --Feral Druid
+    --Feral Tank Druid
+    --Balance Druid
+    --Restoration Druid
+    --Frost Mage
+    --Fire Mage
+    --Arcane Mage
+    --Shadow Priest
+    --Holy Priest
+    --Beast Master Hunter
+    --Destruction Warlock
+    --Affliction Warlock
   },
 }
 
